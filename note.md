@@ -3,6 +3,8 @@
 * Framework – react: https://facebook.github.io/react/
 * Redux: http://www.redux.org.cn/
 * React-native
+
+* node.js http://nodejs.cn/
  
 * Node Package manager – NPM:
 * https://www.npmjs.com/
